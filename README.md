@@ -15,7 +15,8 @@ Interactive Power BI dashboard analysing sales data from 2015 to 2018 (4,922 ord
 - Slicers for date, category and region
 
 ## Data
-Kaggle Superstore sales dataset (not included here; see the Kaggle page for the file and its licence).
+Superstore Sales Dataset (Kaggle): https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
+The data file is not included in this repo. See the Kaggle page for the file and its licence.
 
 ## Tools
 Power BI Desktop, Power Query, DAX
